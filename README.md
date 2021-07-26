@@ -1,4 +1,4 @@
-# News-App
+# News App
 
 ### 1. Clone this Repo
 
